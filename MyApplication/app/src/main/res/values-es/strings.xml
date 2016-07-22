@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="textview_text">¿Sabe usted lo que sucederá en 3 meses?</string>
+    <string name="button_text">Haz click en mi :)</string>
+    <string name="button_text_clicked">Usted se convertirá en un gran desarrollador</string>
+</resources>

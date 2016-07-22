@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textview_text">Tu sais qu\'est-q\'il passera en trois mois?</string>
+    <string name="button_text">Clique Moi!</string>
+</resources>

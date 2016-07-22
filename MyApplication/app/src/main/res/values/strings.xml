@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MultipleDevicesLab</string>
+    <string name="textview_text">Want to know what will happen in three months?</string>
+    <string name="button_text">Click Me :)</string>
+    <string name="button_text_clicked">You\'re going to be a great developer! keep working hard!</string>
+</resources>
